@@ -63,7 +63,7 @@ cv2.destroyAllWindows()
 ## Output:
 
 ### Display the input Image
-<br>![output](1.png)
+<br>![1](https://github.com/VismayaNair/Opening-and-Closing/assets/93427210/4600c31e-5a30-4f5b-805a-463d6b5fe708)
 <br>
 <br>
 <br>
@@ -71,7 +71,7 @@ cv2.destroyAllWindows()
 <br>
 
 ### Display the result of Opening
-<br>![output](2.png)
+<br>![2](https://github.com/VismayaNair/Opening-and-Closing/assets/93427210/62a1be37-5313-4b95-8205-64c88606e604)
 <br>
 <br>
 <br>
@@ -79,7 +79,7 @@ cv2.destroyAllWindows()
 <br>
 
 ### Display the result of Closing
-<br>![output](3.png)
+<br>![3](https://github.com/VismayaNair/Opening-and-Closing/assets/93427210/4e0a3939-33ca-4641-bbd6-e50526739984)
 <br>
 <br>
 <br>
