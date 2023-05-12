@@ -7,25 +7,28 @@ To implement Opening and Closing using Python and OpenCV.
 1. Anaconda - Python 3.7
 2. OpenCV
 ## Algorithm:
-### Step1:
+### Step1: 
+Import necessary packages
 <br>
 
 
 ### Step2:
-<br>
+<br> Add the text using the put text command
 
 ### Step3:
-<br>
+<br> Create the structring element
 
 ### Step4:
-<br>
+<br> Perform opening and closing operations
 
 ### Step5:
-<br>
+<br> End the program
 
  
 ## Program:
 
+DEVELOPED BY : VISMAYA.S
+REG NO : 212221230125
 ``` Python
 # Import the necessary packages
 import cv2
